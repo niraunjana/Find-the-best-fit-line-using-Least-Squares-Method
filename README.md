@@ -47,7 +47,8 @@ y_mean=m*3+b
 ```
 
 ## Output:
-![Screenshot (196)](https://user-images.githubusercontent.com/119395610/225626369-f13a7553-c4a4-4967-a42b-8b83ce3b425d.png)
+![Screenshot (199)](https://user-images.githubusercontent.com/119395610/225628115-e677aec7-2e7f-4453-ae6f-8d260b4923f3.png)
+
 
 ![Screenshot (197)](https://user-images.githubusercontent.com/119395610/225626938-1912e7ed-9107-4046-8384-74b6adcd9960.png)
 
